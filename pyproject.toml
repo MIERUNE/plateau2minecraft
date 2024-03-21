@@ -20,7 +20,7 @@ networkx = "^3.1"
 pyglet = "1.5.27"
 
 [tool.poetry.group.dev.dependencies]
-black = "^23.3"
+black = "^24.3"
 ruff = "^0.0.269"
 pytest = "^7.3"
 pytest-cov = "^4.0"
